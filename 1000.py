@@ -1,4 +1,4 @@
 A, B = input().split()
-a = int(A)
-b = int(B)
-print (a+b)
+x = int(A)
+y = int(B)
+print (x+y)
